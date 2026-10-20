@@ -1,0 +1,14 @@
+# 编译生成文件夹
+build/
+build-debug/
+
+# 编译临时文件
+*.o
+*.out
+*.so
+*.a
+
+# vscode缓存
+.vscode/
+# 系统垃圾
+.DS_Store
